@@ -17,8 +17,10 @@ Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), fo
 
 ## Metrics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clementchmlt&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementchmlt&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=clementchmlt&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementchmlt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ## Contact
 
