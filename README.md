@@ -15,13 +15,6 @@ Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), fo
 * [music-library-manager](https://github.com/clementchmlt/music-library-manager): Command-line tool to download, clean metadata, and organize music libraries
 * [doctomatique](https://github.com/clementchmlt/doctomatique): PHP/MySQL web application for medical appointment management
 
-## Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=clementchmlt&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementchmlt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
 ## Contact
 
 LinkedIn: [linkedin.com/in/clementchamalet](https://www.linkedin.com/in/clementchamalet)
