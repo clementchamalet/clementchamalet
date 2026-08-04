@@ -22,4 +22,4 @@ Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), fo
 
 ## Contact
 
-LinkedIn: [linkedin.com/in/clementchmlt](https://www.linkedin.com/in/clementchmlt)
+LinkedIn: [linkedin.com/in/clementchamalet](https://www.linkedin.com/in/clementchamalet)
