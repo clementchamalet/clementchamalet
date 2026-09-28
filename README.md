@@ -18,6 +18,7 @@ Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), fo
 * [photo-trier](https://github.com/clementchmlt/photo-trier): Minimalist macOS desktop app to sort photos and videos with keyboard shortcuts
 * [music-library-manager](https://github.com/clementchmlt/music-library-manager): Command-line tool to download, clean metadata, and organize music libraries
 * [doctomatique](https://github.com/clementchmlt/doctomatique): PHP/MySQL web application for medical appointment management
+* [substack-to-insta](https://github.com/clementchmlt/substack-to-insta): CLI that turns Substack articles into Instagram carousel slides
 
 ## Contact
 
