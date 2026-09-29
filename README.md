@@ -10,15 +10,15 @@ Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), fo
 
 ## Main Project
 
-* [sky130-verify](https://github.com/clementchmlt/sky130-verify): Command-line Magic DRC and Netgen LVS verification for Sky130A cells, with provenance reports and badges.
+* [sky130-verify](https://github.com/clementchamalet/sky130-verify): Command-line Magic DRC and Netgen LVS verification for Sky130A cells, with provenance reports and badges.
 
 ## Personal Side Projects
 
-* [asset-correlation-tool](https://github.com/clementchmlt/asset-correlation-tool): Advanced correlation analysis for financial markets (Pearson, Spearman, Partial, Rolling)
-* [photo-trier](https://github.com/clementchmlt/photo-trier): Minimalist macOS desktop app to sort photos and videos with keyboard shortcuts
-* [music-library-manager](https://github.com/clementchmlt/music-library-manager): Command-line tool to download, clean metadata, and organize music libraries
-* [doctomatique](https://github.com/clementchmlt/doctomatique): PHP/MySQL web application for medical appointment management
-* [substack-to-insta](https://github.com/clementchmlt/substack-to-insta): CLI that turns Substack articles into Instagram carousel slides
+* [asset-correlation-tool](https://github.com/clementchamalet/asset-correlation-tool): Advanced correlation analysis for financial markets (Pearson, Spearman, Partial, Rolling)
+* [photo-trier](https://github.com/clementchamalet/photo-trier): Minimalist macOS desktop app to sort photos and videos with keyboard shortcuts
+* [music-downloader](https://github.com/clementchamalet/music-downloader): Command-line tool to download, clean metadata, and organize music libraries
+* [doctomatique](https://github.com/clementchamalet/doctomatique): PHP/MySQL web application for medical appointment management
+* [substack-to-insta](https://github.com/clementchamalet/substack-to-insta): CLI that turns Substack articles into Instagram carousel slides
 
 ## Contact
 
