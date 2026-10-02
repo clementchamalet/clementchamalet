@@ -14,6 +14,7 @@ Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), fo
 
 ## Personal Side Projects
 
+* [agent-chat-bridge](https://github.com/clementchamalet/agent-chat-bridge): Control coding agents from private WhatsApp and Telegram chats on macOS
 * [asset-correlation-tool](https://github.com/clementchamalet/asset-correlation-tool): Advanced correlation analysis for financial markets (Pearson, Spearman, Partial, Rolling)
 * [photo-trier](https://github.com/clementchamalet/photo-trier): Minimalist macOS desktop app to sort photos and videos with keyboard shortcuts
 * [music-downloader](https://github.com/clementchamalet/music-downloader): Command-line tool to download, clean metadata, and organize music libraries
