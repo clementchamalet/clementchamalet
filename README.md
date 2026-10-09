@@ -1,6 +1,6 @@
 # Clément Chamalet
 
-Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), following a top-tier STEM prep school track (CPGE).
+Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), after a two-year CPGE ECG preparatory track (mathematics, geopolitics, languages and humanities).
 
 ## Core Technical Stack
 
@@ -11,6 +11,7 @@ Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), fo
 ## Main Project
 
 * [sky130-verify](https://github.com/clementchamalet/sky130-verify): Command-line Magic DRC and Netgen LVS verification for Sky130A cells, with provenance reports and badges.
+* [Sky130A verification dataset](https://huggingface.co/datasets/clementchamalet/sky130a-layout-verification-pex): 3,005 verified Sky130A cells from 11,633 catalogued candidates, with a post-layout parasitic extraction benchmark ([DOI](https://doi.org/10.5281/zenodo.23040975))
 
 ## Personal Side Projects
 
@@ -26,3 +27,5 @@ Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), fo
 LinkedIn: [linkedin.com/in/clementchamalet](https://www.linkedin.com/in/clementchamalet)
 
 Hugging Face: [huggingface.co/clementchamalet](https://huggingface.co/clementchamalet)
+
+ORCID: [0009-0002-5539-0248](https://orcid.org/0009-0002-5539-0248)
