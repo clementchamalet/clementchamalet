@@ -10,8 +10,8 @@ Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), fo
 
 ## Main Project
 
-* [sky130-verify](https://github.com/clementchamalet/sky130-verify): Command-line Magic DRC and Netgen LVS verification for Sky130A cells, with provenance reports and badges.
-* [Sky130A verification dataset](https://huggingface.co/datasets/clementchamalet/sky130a-layout-verification-pex): 3,005 verified Sky130A cells from 11,633 catalogued candidates, with a post-layout parasitic extraction benchmark ([DOI](https://doi.org/10.5281/zenodo.23040975))
+* [sky130-verify](https://github.com/clementchamalet/sky130-verify): Command-line Magic DRC and Netgen LVS verification for Sky130A cells, with provenance reports and badges ([DOI](https://doi.org/10.5281/zenodo.23052997)).
+* [Sky130A verification dataset](https://huggingface.co/datasets/clementchamalet/sky130a-layout-verification-pex): 3,005 verified Sky130A cells, with a post-layout parasitic extraction benchmark ([DOI](https://doi.org/10.5281/zenodo.23040975))
 
 ## Personal Side Projects
 
