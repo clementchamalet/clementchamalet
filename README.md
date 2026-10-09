@@ -1,6 +1,6 @@
 # Clément Chamalet
 
-Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), after a two-year CPGE ECG preparatory track (mathematics, geopolitics, languages and humanities).
+Engineering student at Centrale Lille (MEng) and SKEMA Business School (MiM), following a top-tier prep school track (CPGE).
 
 ## Core Technical Stack
 
